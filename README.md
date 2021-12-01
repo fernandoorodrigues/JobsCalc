@@ -44,6 +44,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-<><img src="https://github.com/fernandoorodrigues.png" alt="foto fernando" align="center" height="52" width="52" ></>
+<img src="https://github.com/fernandoorodrigues.png" alt="foto fernando" align="center" height="52" width="52" >
 
 Feito por  Fernando de oliveira rodrigues/Rocketseat :wave:
